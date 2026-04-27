@@ -207,7 +207,7 @@ As transcrições são armazenadas em `transcriptions.json` no formato:
 
 ## 📄 Licença
 
-[Adicionar licença do projeto]
+MIT License
 
 ## 🤝 Contribuindo
 
